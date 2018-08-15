@@ -1,13 +1,3 @@
----
-layout: article
-title: Anaconda-and-conda
-key: 100019
-tags: blog
-category: Python学习
-date: 2017-10-05 01:00:00 +08:00
-modify_date: 2017-10-18 13:00:00 +08:00
----
-
 # Anaconda-and-conda
 
 ## 1.Package Manager
@@ -18,6 +8,7 @@ to install `numpy`
 conda install package_name 
 eg:conda install numpy
 ```
+<!--more-->
 
 install multiple packages
 
