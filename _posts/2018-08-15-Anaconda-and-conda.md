@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Anaconda-and-conda
-key: 100019
+key: 100000
 tags: Python学习
 category: blog
 date: 2018-08-15 01:00:00 +08:00
