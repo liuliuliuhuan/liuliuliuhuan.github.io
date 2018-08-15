@@ -8,8 +8,6 @@ date: 2018-08-15 01:00:00 +08:00
 modify_date: 2018-08-15 13:00:00 +08:00
 ---
 
-# Anaconda-and-conda
-
 ## 1.Package Manager
 
 to install `numpy`
