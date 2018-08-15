@@ -1,3 +1,13 @@
+---
+layout: article
+title: Anaconda-and-conda
+key: 100019
+tags: blog
+category: Python学习
+date: 2018-08-15 01:00:00 +08:00
+modify_date: 2018-08-15 13:00:00 +08:00
+---
+
 # Anaconda-and-conda
 
 ## 1.Package Manager
